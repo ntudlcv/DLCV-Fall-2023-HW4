@@ -1,6 +1,6 @@
 # DLCV-Fall-2023-HW4
 
-Please click [this link](https://docs.google.com/presentation/d/171DwrrzYUenLnyev_NyZg0c19lgqk4q42iA_ptLZjDk/edit?usp=sharing) to view the slides of HW4
+Please click [this link](https://docs.google.com/presentation/d/1Uvc4HGW5kRD42XxSZ6ibiwQ1meKOeWQNnmsuVgs5-FE/edit?usp=sharing) to view the slides of HW4
 
 # Usage
 
