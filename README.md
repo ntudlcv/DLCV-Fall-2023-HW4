@@ -18,7 +18,7 @@ please download `dataset` from the link below
 
 # Submission Rules
 ### Deadline
-2022/12/12 (Mon.) 23:59
+2023/12/12 (Tue.) 23:59
 
 ### Packages
 This homework should be done using python3.9. For a list of packages you are allowed to import in this assignment, please refer to the `requirements.txt` for more details.
